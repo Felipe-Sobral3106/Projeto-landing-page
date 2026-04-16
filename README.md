@@ -1,18 +1,25 @@
-# 🏦 Consultoria de Investimentos - Mariana Gonzalez
+# 🏦 Projeto Landing Page - Mariana Gonzalez
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Este é um projeto que desenvolvi para ajudar minha tia, Mariana Gonzalez, a ter uma presença digital mais profissional para a consultoria de investimentos dela.
 
-## 📝 Sobre o Projeto
-Esta é uma solução corporativa desenvolvida para a especialista em investimentos **Mariana Gonzalez**. O projeto consiste em uma Landing Page de alto padrão, focada na captação de leads qualificados e triagem de investidores interessados em sucessão patrimonial e alocação de ativos.
+## 🚀 Sobre o desenvolvimento
+O objetivo principal deste projeto é o meu aprendizado em **Back-end com Java e Spring Boot**. 
 
-O sistema foi arquitetado para ir além de um site estático, utilizando o ecossistema **Spring Boot** para gerenciar o processamento de dados e comunicações de back-end.
+**Atenção:** Como meu foco total está na lógica de servidor, banco de dados e estruturação do sistema, utilizei **Inteligência Artificial** para auxiliar na criação da interface (HTML e CSS). Isso me permitiu entregar um visual moderno (estilo Glassmorphism) enquanto eu concentro meus esforços no que acontece "por baixo do capô".
 
----
+## 🛠️ Tecnologias
+- **Back-end:** Java com Spring Boot
+- **Front-end:** HTML/CSS (Gerados/Ajustados com auxílio de IA)
+- **Engine:** Thymeleaf
+- **Banco de Dados:** H2 (para testes) / Planejado MySQL
 
-## 🚀 Funcionalidades Implementadas
-- **Interface Premium:** Design responsivo com efeitos de *Glassmorphism* e paleta de cores focada no mercado de luxo/investimentos.
-- **Arquitetura MVC:** Separação clara entre a lógica de negócio (Back-end) e a interface (Front-end).
-- **SEO
+## 📋 O que o projeto faz (ou vai fazer)
+- [x] Página visual para apresentação dos serviços.
+- [ ] **Formulário de Triagem:** Onde os clientes deixam os dados e eu processo o perfil de investimento no Java.
+- [ ] **Banco de Dados:** Salvar todos os interessados para que minha tia possa entrar em contato depois.
+- [ ] **Painel Administrativo:** Uma área restrita para ela ver a lista de clientes que se cadastraram.
+
+## 🔧 Como testar
+1. Clone o repositório.
+2. Rode o projeto na sua IDE (IntelliJ ou VS Code).
+3. Acesse `localhost:8080`.
